@@ -16,9 +16,6 @@ class cekbilanganprima{
 
 }
 
-
-
-
 fun main(args: Array<String>) {
     val cekbilprima = cekbilanganprima()
 
